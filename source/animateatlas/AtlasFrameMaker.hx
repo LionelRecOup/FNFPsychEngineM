@@ -17,6 +17,7 @@ import flixel.util.FlxColor;
 #if desktop
 import sys.FileSystem;
 import sys.io.File;
+#end
 
 using StringTools;
 class AtlasFrameMaker extends FlxFramesCollection
